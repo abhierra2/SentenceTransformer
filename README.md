@@ -11,7 +11,7 @@ This project contains a notebook implementing a multi-task sentence transformer 
      ```
    - Open the notebook:
      ```bash
-     jupyter notebook takehome_project_notebook.ipynb
+     jupyter notebook Take_Home.ipynb
      ```
 
 2. **Run with Docker**:
@@ -26,4 +26,4 @@ This project contains a notebook implementing a multi-task sentence transformer 
    - Open the notebook by navigating to `http://localhost:8888/` in your browser.
 
 ## Notebook
-- `takehome_project_notebook.ipynb`: Contains the entire codebase, including the model implementation, multi-task setup, training loops, and layer-wise learning rate implementation.
+- `Take_Home.ipynb`: Contains the entire codebase, including the model implementation, multi-task setup, and layer-wise learning rate implementation.
